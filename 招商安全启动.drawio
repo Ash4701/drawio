@@ -40,7 +40,7 @@
             <mxPoint x="400" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eb3B6lXwsH96nu4YR_D-5" value="刷写在芯片后启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9eb3B6lXwsH96nu4YR_D-5" value="刷写在芯片中启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9eb3B6lXwsH96nu4YR_D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9eb3B6lXwsH96nu4YR_D-8">
